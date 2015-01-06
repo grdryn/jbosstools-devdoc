@@ -5,9 +5,11 @@ Thanks for contributing to JBoss Tools Developer documentation.
 
 The layout of the current documentation is the following:
 
+- link:api[] - how to use JBoss Tools APIs, such as for Central and Usage
 - link:building[]  - how to build JBoss Tools and its eclipse plugins
 - link:debugging[] - tips'n'tricks on how to best debug
-- link:issues[] - how to use issue tracker, shared queries etc.
+- link:testing[] - how to do integration testing
+- link:community[] - how to use issue tracker, shared queries, community testing & contributing
 - <your topic here> - if you feel an overall issue are missing, create a pull request (PR) and suggest one
 
 To contribute content, you can clone the repository and submit a pull request, or, you can click on the "pencil" icon to make changes directly. 
@@ -34,7 +36,7 @@ The table below outlines several workflows:
 
 [options="header"]
 |=========================
-| *Task* | local/offline | github.com/online 
+| *Task* | local clone (offline) | github.com (online) 
 | *Create text file* | git add + commit + push |  Click the '+' icon, name the file and submit 
 | *Add image/binary* | git add + commit + push | N/A
 | *Edit content* | git commit + push | Click the 'Edit' button (appears as a pencil), edit the content, and submit

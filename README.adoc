@@ -4,7 +4,7 @@ This repository contains documentation for building and developing JBoss Tools.
 
 It is meant to replace the articles related to development at jboss.org wiki found at https://community.jboss.org/wiki/JBossTools
 
-See link:building/CONTRIBUTING.adoc[Contributing] for how to write/add to these docs.
+See link:community/CONTRIBUTING.adoc[Contributing] for how to write/add to these docs.
 
 In general it is to be a wiki all developers can push docs to, external contributors can do pull-requests or report issues
 to get things clarified/documented better.
@@ -67,20 +67,7 @@ See link:building/configuring_git_workflow.adoc[Configuring git workflow].
 ** Release guidelines, tools (promote.sh, new promote mojo)
 ** How to Tag & branch your code
 
-=== Community contribution / involvement
+=== Community contribution and involvement
 
-** JIRA
-*** Filters
-** Release schedule
-** JBDS docs - jbdevstudio-devdoc
-** https://github.com/jbdevstudio/jbdevstudio-devdoc
-** requesting access if not authorized / 404'd
-** Forum
-*** https://developer.jboss.org/en/products/devstudio
-*** https://developer.jboss.org/en/tools/devt
-*** https://developer.jboss.org/en/tools/
-** CAT - http://tools.jboss.org/cat/
+See link:community/README.adoc
 
-=== Additional community doc
-
-** How To Guides - http://tools.jboss.org/documentation/howto/
